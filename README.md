@@ -1,4 +1,4 @@
-# Minimedi
+# MedBlocks
 
 To intiliatize webiste -
     in parent Directory write
