@@ -19,7 +19,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, isSide
               <i className="icon-2"></i>Phone: <Link href="tel:01989526503">0198-9526503</Link>
             </li>
             <li>
-              <img src="assets/images/icons/icon-1.png" alt="" />IIT Kharagpur
+              <img src="assets/images/icons/icon-1.png" alt="" />Manipal University Jaipur
             </li>
           </ul>
           <ul className="social-links clearfix">
